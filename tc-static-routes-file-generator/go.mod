@@ -1,6 +1,6 @@
 module tc-static-routes-file-generator
 
-go 1.19
+go 1.21
 
 replace file-persistence-mod => ../file-persistence-mod
 
