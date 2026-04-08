@@ -1,3 +1,3 @@
 module tc-util-mod
 
-go 1.25
+go 1.26
